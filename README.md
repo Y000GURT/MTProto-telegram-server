@@ -15,7 +15,7 @@ ssh root@YOUR_IP_ADDRESS
 ```
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/cuk3/MTProto-telegram-server/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/Y000GURT/MTProto-telegram-server/main/install.sh)
 ```
 
 Готово. Скрипт выдаст ссылку — отправьте её в Telegram и подключитесь.
