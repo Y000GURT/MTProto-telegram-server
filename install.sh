@@ -57,7 +57,7 @@ echo "🚀 Запускаю прокси..."
 docker run -d \
     --name mtg \
     --restart always \
-    -p 443:3128 \
+    -p 8443:3128 \
     -v /opt/mtg/config.toml:/config.toml:ro \
     nineseconds/mtg:2 run /config.toml >/dev/null
 
