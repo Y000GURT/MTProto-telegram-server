@@ -79,7 +79,7 @@ ssh root@YOUR_IP_ADDRESS
 ### 2. Запустите скрипт
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/cuk3/MTProto-telegram-server/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/Y000GURT/MTProto-telegram-server/main/install.sh)
 ```
 
 ### 3. Готово
